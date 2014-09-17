@@ -21,7 +21,7 @@ For each record in the dataset it is provided:
 - An identifier of the subject who carried out the experiment.
 
 ### Transformation details
-
+-
 -There are 5 parts:
 -1. Merges the training and the test sets to create one data set.
 -2. Extracts only the measurements on the mean and standard deviation for each measurement.
@@ -30,7 +30,7 @@ For each record in the dataset it is provided:
 -5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
 ### How ```run_analysis.R``` implements the above steps:
-
+-
 -* Load both test and train data
 -* Load the features and activity labels.
 -* Extract the mean and standard deviation column names and data.
