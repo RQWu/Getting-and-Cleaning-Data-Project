@@ -1,8 +1,6 @@
 Getting-and-Cleaning-Data-Project
 =================================
-## Course Project
-
-You should create one R script called run_analysis.R that does the following.
+The goal is to prepare tidy data that can be used for later analysis. You should create one R script called run_analysis.R that does the following.
 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.
